@@ -285,7 +285,7 @@ function createTopics() {
     }
   topicsFormatColumns(); //Format B2:D as plain text
 }
-hu
+
 function createAssignments() {
   var user = Session.getActiveUser();
   var ss= SpreadsheetApp.getActive();
